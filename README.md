@@ -24,22 +24,22 @@ This is a sentiment analysis tool built in Python using NLTK for sentiment analy
 ## Installation
 
 1. Clone the repository:
-git clone https://github.com/yourusername/sentiment-analysis-tool.git
-cd sentiment-analysis-tool
+- git clone https://github.com/yourusername/sentiment-analysis-tool.git.
+- cd sentiment-analysis-tool
 
 2. Create and activate a virtual environment:
-python -m venv venv
-source venv/bin/activate # For Linux/Mac
-venv\Scripts\activate # For Windows
+- python -m venv venv
+- source venv/bin/activate # For Linux/Mac
+- venv\Scripts\activate # For Windows
 
 3. Install dependencies:
-pip install -r requirements.txt
+- pip install -r requirements.txt
 
 
 ## Usage
 
 1. Run the application:
-python sentiment_analysis_tool.py
+- python sentiment_analysis_tool.py
 
 2. Enter or paste text into the GUI window to analyze sentiment. Optionally, filter entities by selecting a type from the dropdown menu.
 
